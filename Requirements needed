@@ -1,0 +1,7 @@
+#please have PyAudio! 
+command for PyAudio on python 3.7 : 
+   pip install PyAudio 
+If this fails, a video on how to install this would be posted
+
+#Please have speech_recognition installed: 
+   pip install Speech_Recognition
